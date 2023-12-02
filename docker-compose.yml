@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  python-api:
+    build: .
+    command: uvicorn src.main:app --port=80 --host=0.0.0.0
+    ports:
+      - 80:80
+    volumes:
+      - .:/app
