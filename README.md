@@ -3,6 +3,8 @@
 ***
 
 Essa atividade foi desenvolvida para disponibilizar um sistema na AWS que ao acessar a rota `/` terá como resposta uma frase de sucesso e ao acessar a rota `/api/v1/predict` utilizando o método post com parâmetros no formato Json, após processamento a resposta será outro Json com a informação da predição da classificação gerado indicando qual reserva se encaixa em qual faixa de preço estipulado.
+## Dataset Utilizado
+O dataset utilizado para o estudo e o treinamento dos modelos de predição foi o Hotel Reservations Dataset, disponível na plataforma da [Kaggle](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
 
 ## Índice
 <a name="ancora"></a>
