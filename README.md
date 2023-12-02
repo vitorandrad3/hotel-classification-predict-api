@@ -232,14 +232,18 @@ Os modelos de teste estão localizados no notebook `test_notebook.ipynb`
 ### Modelo escolhido
 
 O modelo XGBoost apresentou a melhor precisão de todos os modelos, alcançando 87% de assertividade nas previsões.
+![image](https://github.com/vitorandrad3/classification-predict-api/assets/121817324/9a3653a2-69b1-478c-977c-12debfb98098)
 
 
 ## Arquitetura do projeto <a name="arquitetura"></a>
+![arq](https://github.com/vitorandrad3/classification-predict-api/assets/121817324/4b103420-246b-4b18-84ba-4d26d1712ea4)
 
 
 ## Testes de unidade: <a name="testes"></a>
 
 No projeto também foram elaborados testes de unidade a fim de trazer maior qualidade ao código, usando a biblioteca `pytest`. Os testes apresentam um total de coverage de 96%.
+
+![image](https://github.com/vitorandrad3/classification-predict-api/assets/121817324/c6283828-07f7-4601-b5c2-ecea6be93041)
 
 
 
