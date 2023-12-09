@@ -238,7 +238,7 @@ O modelo XGBoost apresentou a melhor precisão de todos os modelos, alcançando 
 
 
 ## Arquitetura do projeto <a name="arquitetura"></a>
-![arq](https://github.com/vitorandrad3/classification-predict-api/assets/121817324/4b103420-246b-4b18-84ba-4d26d1712ea4)
+![service-architecture-prediction](https://github.com/vitorandrad3/hotel-classification-predict-api/assets/121817324/14a5178f-25d4-4b89-985d-746208aeadb4)
 
 
 ## Testes de unidade: <a name="testes"></a>
